@@ -1,6 +1,7 @@
 # Python-Project
 
 from bs4 import BeautifulSoup as bs
+
 from lxml import html
 
 -We have to install in any os packages like pip(old) 'pip3 install bs4' 
