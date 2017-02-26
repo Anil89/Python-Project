@@ -6,11 +6,7 @@ from lxml import html
 -We have to install in any os packages like pip(old) 'pip3 install bs4' 
 bs4 4r soup
 -lxml for xpath (css selector)
-
-# from pandas import Series,DataFrame
-# import pandas as pd
-
--pandas for table structure
+'pip install lxml'
 
 import requests 
 
